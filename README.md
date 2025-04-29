@@ -36,5 +36,9 @@ Lands | Hands   | Percent
 
 ![Example Histogram](ExampleHistogram.png)
 
+## Project Motivation
+
+This project was developed as a demonstration of mathematical and statistical modeling in the context of game fairness, probability, and resource distribution. It draws on principles from Monte Carlo simulation and combinatorial analysis, both of which are critical in evaluating randomness and balance in regulated gaming systems.
+
 ## Thanks
 Made with help from Scryfall for card data.
