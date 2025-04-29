@@ -9,8 +9,12 @@ This Python script simulates drawing opening hands from a Magic: The Gathering C
 - User-configurable: Number of simulated hands, minimum/maximum desired land count
 - Displays the full distribution of land counts in opening hands, as a table and as a matplotlib histogram
 
-## Example
+## Example output
 Using: https://moxfield.com/decks/Wwcu34oIU0CQWFHGty_lKQ
+=== Magic: the Gathering Opening Hand Monte Carlo Simulation ===
+Loaded 100 cards.
+Checking which cards are lands (uses Scryfall, cached for speed)...
+
 Successes: 4681 / 10000 hands (46.81%) with 3–4 lands.
 
 ==== Land Count Distribution in Opening Hand ====
