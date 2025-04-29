@@ -9,6 +9,22 @@ This Python script simulates drawing opening hands from a Magic: The Gathering C
 - User-configurable: Number of simulated hands, minimum/maximum desired land count
 - Displays the full distribution of land counts in opening hands, as a table and as a matplotlib histogram
 
+## Example
+Using: https://moxfield.com/decks/Wwcu34oIU0CQWFHGty_lKQ
+Successes: 4681 / 10000 hands (46.81%) with 3–4 lands.
+
+==== Land Count Distribution in Opening Hand ====
+Lands | Hands   | Percent
+-------------------------
+    0 |    304 |   3.04 %
+    1 |   1497 |  14.97 %
+    2 |   2880 |  28.80 %
+    3 |   2965 |  29.65 %
+    4 |   1716 |  17.16 %
+    5 |    533 |   5.33 %
+    6 |     96 |   0.96 %
+    7 |      9 |   0.09 %
+
 ![Example Histogram](ExampleHistogram.png)
 
 ## Thanks
