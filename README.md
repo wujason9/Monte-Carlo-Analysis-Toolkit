@@ -22,6 +22,7 @@ Checking which cards are lands (uses Scryfall, cached for speed)...
 Successes: 4681 / 10000 hands (46.81%) with 3–4 lands.
 
 ==== Land Count Distribution in Opening Hand ====
+
 Lands | Hands   | Percent
 -------------------------
     0 |    304 |   3.04 %
